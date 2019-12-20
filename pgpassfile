@@ -1,1 +1,1 @@
-pgdb:5432:postgres:postgres:root
+pgdb:5432:*:postgres:postgres
