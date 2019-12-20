@@ -1,8 +1,8 @@
-# Overview
+## Overview
 
 pg-quick-start runs PostgreSQL 12, pgAdmin4 and creates example `world` database.
 
-# How to use it
+## How to use it
 
 ```sh
 cd pg-quick-start
