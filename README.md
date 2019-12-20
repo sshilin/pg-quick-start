@@ -1,6 +1,8 @@
 ## Overview
 
-pg-quick-start runs PostgreSQL 12, pgAdmin4 with authentication disabled(desktop mode) and creates example `world` database.
+The aim for this project is to get a quick way to start working with a local PostgreSQL service.
+
+pg-quick-start runs PostgreSQL 12, pgAdmin4 with no auth(desktop mode) and creates example `world` database.
 
 ## How to use it
 
