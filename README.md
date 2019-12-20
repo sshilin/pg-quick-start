@@ -1,6 +1,6 @@
 ## Overview
 
-pg-quick-start runs PostgreSQL 12, pgAdmin4 and creates example `world` database.
+pg-quick-start runs PostgreSQL 12, pgAdmin4 in DESKTOP mode and creates example `world` database.
 
 ## How to use it
 
